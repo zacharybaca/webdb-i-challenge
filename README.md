@@ -1,6 +1,6 @@
 # Database Queries
 
-## Topics
+## Topics--
 
 - Relational Databases
 - Writing Basic SQL Queries
